@@ -1,4 +1,4 @@
-<p><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="center" src="https://cdn.discordapp.com/attachments/1006792771350319156/1033847684982915194/Desarrollador-Jr.gif" alt="adam-pw" /></p>
 
 
 <h1 align="center">Hi 👋, I'm Juan Sebastian Carrera Bolaños</h1>
@@ -14,8 +14,8 @@
 - 🎒 I’m currently learning Web Development focussed on MERN FULL STACK 
 
 - 📧 How to reach me ->
-- Email : **sebascarrera2000@gmail.com**  
-- Discord: **RaptorAustriaco#5604**  
+Email : **sebascarrera2000@gmail.com**  
+Discord: **RaptorAustriaco#5604**  
 
 - ⚡ My Style : Music 🎵 And Coding 💻  is my life Style.
 
