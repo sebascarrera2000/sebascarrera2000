@@ -59,15 +59,15 @@
       <a href="https://php.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"
       height="40" />
-     </a> </p>
+     </a> 
      <a href="https://es.react.dev/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40"
       height="40" />
-     </a> </p>
+     </a> 
        <a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="react" width="40"
       height="40" />
-     </a> </p>
+     </a> 
 <br>
 
 <h3>Statistical Data :-</h3>
