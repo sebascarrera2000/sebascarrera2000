@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Juan Sebastian Carrera Bolaños</h1>
-<h3 align="center"> Teacher at Universidad Mariana. </h3>
+<h3 align="center"> Master Data Science </h3>
 
 <a>
 </a>
